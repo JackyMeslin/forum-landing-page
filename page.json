@@ -1,4 +1,16 @@
 {
   "name": "My Landing Page",
-  "path": "my-landing-page"
+  "path": "my-landing-page",
+  "menu": "landing",
+  "theme": "Pavilion Landing Theme",
+  "groups": [],
+  "assets": [
+    "welcome",
+    "contact"
+  ]
+}
+
+{
+    "name": "Welcome",
+    "path": "welcome",
 }
