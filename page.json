@@ -8,11 +8,11 @@
     "welcome",
     "contact"
   ],
-//   "script": "https://cdn.tailwindcss.com"
-
-
-    "scripts": [
-      "https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.6.5/lottie.min.js"
+  
+  
+  "scripts": [
+    "https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.6.5/lottie.min.js"
+      "script": "https://cdn.tailwindcss.com"
     ],
     "header": {
       "root": "/welcome"
